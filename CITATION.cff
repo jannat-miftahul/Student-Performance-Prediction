@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software for a publication, please cite the project as follows:"
+title: "Student Performance Prediction"
+authors:
+  - family-names: Miftahul
+    given-names: Jannat
+date-released: 2026-07-16
+version: 0.1.0
+url: https://github.com/jannat-miftahul/Student-Performance-Prediction
